@@ -1,4 +1,4 @@
-### Introduction
+### Intro
 
 JavaScript is the future of the web. More and more of the logic is making its way to the client side in order to facilitate lightning-fast user experiences. JavaScript is even moving to the server side with Node.js. That's why in this course we'll be diving deep into it to make sure you come out with a good understanding of how it works.
 
